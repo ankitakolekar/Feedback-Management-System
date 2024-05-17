@@ -1,0 +1,66 @@
+#success_message{ display: none;}
+body
+ {
+    
+    background-repeat:no-repeat;
+    background-size: 1400px;
+    background-position:center;
+    background-attachment: fixed;
+    background:url(bg2.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+  }
+  #div1{
+    margin-top: 30px;
+    width: 430px;
+height: 450px;
+background-color:white;
+  }
+label
+{
+  
+  font-size: 20px;
+      position: absolute;
+    left: 520px;
+    
+
+}
+  input
+  {
+      
+      position: absolute;
+      left: 520px;
+  }
+  select
+  {
+      
+      position: absolute;
+      left: 580px;
+  }
+  #start1{
+    position: absolute;
+      left: 700px;
+  }
+  #start2{
+    position: absolute;
+      left: 700px;
+  }
+  #start3{
+   width: 244px;
+  }
+  
+  #text
+  {
+    position: relative;
+    margin-top: 12px;
+    margin-top:20px;
+    height: 50px;
+    color: white;
+    background-color:rgb(77, 5, 29);
+  }
+
+  .form-check-input
+  {
+    position: absolute;
+    left: 500px; 
+  }

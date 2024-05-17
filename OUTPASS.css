@@ -1,0 +1,60 @@
+#success_message{ display: none;}
+body{
+    background-image:url("hostel.jpg");
+    background-repeat:no-repeat;
+    background-size: 100%;
+    background-position:center;
+    background-attachment: fixed;
+	
+	
+	
+  }
+
+  h2{
+    background-color:maroon;
+    color: white;
+  }
+  #div1{
+background:brown;
+width: 700px;
+height: 500px;
+  }
+label
+{
+  
+   color:white;
+    position: absolute;
+    left: 450px;
+
+}
+
+  input
+  {
+      
+      position: absolute;
+      left: 700px;
+  }
+  select
+  {
+      
+      position: absolute;
+      left: 580px;
+  }
+  #start1{
+    position: absolute;
+      left: 700px;
+  }
+  #start2{
+    position: absolute;
+      left: 700px;
+  }
+  #start3{
+   width: 244px;
+  }
+  #Confirm
+  {
+      position: absolute;
+      background-color:lightskyblue;
+      left: 300px;
+      width: 10%;
+  }
